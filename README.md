@@ -10,6 +10,6 @@ For example:
 
 https://artifacts.0000000000.org/railgun/01x01/wasm.br
 
-https://artifacts.0000000000.org/tornado/circuit.json.br
+https://artifacts.0000000000.org/tornado/tornado.json
 
 https://artifacts.0000000000.org/privacy-pools/build/commitment/commitment_js/commitment.wasm
